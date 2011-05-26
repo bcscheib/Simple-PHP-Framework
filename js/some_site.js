@@ -1,0 +1,4 @@
+var SomeSite = {
+	init: function(){
+	}
+};
